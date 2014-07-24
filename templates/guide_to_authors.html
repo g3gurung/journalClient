@@ -1,0 +1,48 @@
+<h1>{{gta.title}}</h1>
+<p><strong> {{gta.intro.title}}</strong> {{gta.intro.sub_body}}</p>
+<p ng-repeat="p in gta.intro.body.p">{{p}}</p>
+
+<p><strong>{{gta.body.p_1.title}}</strong> {{gta.body.p_1.body_1}}</p>
+<p>{{gta.body.p_1.body_2}}</p>
+<p>
+    <strong>{{gta.body.p_2.title}}</strong> {{gta.body.p_2.body}}
+</p>
+
+<h2>{{gta.body.section_1.title}}</h2>
+<p>{{gta.body.section_1.heading}}</p>
+<p><strong>{{gta.body.section_1.p_1.title}}:</strong> {{gta.body.section_1.p_1.body}}</p>
+<p><strong>{{gta.body.section_1.p_2.title}}:</strong> {{gta.body.section_1.p_2.body}}</p>
+<p><strong>{{gta.body.section_1.p_3.title}}:</strong> {{gta.body.section_1.p_3.body}}</p>
+
+<h2>{{gta.body.section_2.title}}</h2>
+<p>{{gta.body.section_2.body}}</p>
+
+<h2>{{gta.body.section_3.title}}</h2>
+<p>{{gta.body.section_3.p_1.body_1}} <strong>{{gta.body.section_3.p_1.bold_body}}</strong> {{gta.body.section_3.p_1.body_2}}</p>
+<p><strong>{{gta.body.section_3.p_2.bold_body}}</strong> {{gta.body.section_3.p_2.body}}</p>
+<p><strong>{{gta.body.section_3.p_3.bold_body}}</strong> {{gta.body.section_3.p_3.body}}</p>
+
+<p>{{gta.body.section_4.heading.text_1}} <strong>{{gta.body.section_4.heading.bold_text}}</strong> {{gta.body.section_4.heading.text_2}}</p>
+<p>{{gta.body.section_4.p_1.body_1}} <strong>{{gta.body.section_4.p_1.bold_body}}</strong> {{gta.body.section_4.p_1.body_2}}</p>
+<p><strong>{{gta.body.section_4.p_2.title}}</strong> {{gta.body.section_4.p_2.body}}</p>
+<p><strong>{{gta.body.section_4.p_3.title}}</strong> {{gta.body.section_4.p_3.body}}</p>
+<p><strong>{{gta.body.section_4.p_4.title}}</strong> {{gta.body.section_4.p_4.body}}</p>
+<p><strong>{{gta.body.section_4.p_5.title}}</strong> {{gta.body.section_4.p_5.body}}</p>
+
+<p><strong>{{gta.body.section_5.heading.title}}</strong> {{gta.body.section_5.heading.body}}</p>
+<p ng-repeat="p in gta.body.section_5.p"><strong>{{p.title}}</strong> {{p.body}}</p>
+
+<h2>{{gta.body.section_6.title}}:</h2>
+<p><strong>{{gta.body.section_6.p_1.title}}</strong><br />{{gta.body.section_6.p_1.body}}</p>
+
+<p><strong>{{gta.body.section_6.p_2.title}}</strong><br />{{gta.body.section_6.p_2.body.title}}</p>
+<ol>
+    <li ng-repeat="item in gta.body.section_6.p_2.body.list">{{item}}</li>
+</ol>
+
+<p><span ng-repeat="p in gta.body.section_6.p_2.end">{{p}}<br /></span></p>
+
+<h2>{{gta.body.section_end.title}}</h2>
+<p>{{gta.body.section_end.p_1.body}}</p>
+<p><strong>{{gta.body.section_end.p_2.title}}</strong> {{gta.body.section_end.p_2.body}}</p>
+<p><strong>{{gta.body.section_end.p_3.title}}</strong> {{gta.body.section_end.p_3.body}}</p>

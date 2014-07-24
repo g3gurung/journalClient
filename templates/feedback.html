@@ -1,0 +1,16 @@
+<h1 class="text-center">Your feedback is very important to us!</h1>
+<div class="feedback-form">
+    <div class="form-group">
+    <label for="name">Name</label>
+    <input type="text" class="form-control" id="name" placeholder="Full Name" ng-model="name">
+  </div>
+  <div class="form-group">
+      <label for="email">Email</label><span class="text-danger">  {{emailErr}}</span>
+    <input type="text" class="form-control" id="email" placeholder="Email Address" ng-model="email">
+  </div>
+  <div class="form-group">
+    <label for="feedback">Feedback</label>
+    <textarea id="feedback" class="form-control" placeholder="Your queries, suggestions, comments, etc... here" ng-model="feedback"></textarea>
+  </div>
+    <button type="submit" class="btn btn-primary" ng-disabled="btn_disable" ng-click="submitFeedback();">Submit</button><img class="spinner" src="images/spinner.gif" alt="File Uploading"/>
+</div>

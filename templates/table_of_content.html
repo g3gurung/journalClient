@@ -1,0 +1,31 @@
+<div class="text-center text-muted ahead-of-print" ng-show="volumes.length <= 0">
+	<strong>Ahead Of Print</strong>
+</div>
+<div class="panel-group" id="accordion">
+    <div class="panel panel-default" ng-repeat="volume in volumes">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#{{volume.volume}}" ng-click="fetchArticles(volume.volume);" onclick="return false;">
+              Volume {{volume.volume}}
+            </a>
+          </h4>
+        </div>
+        <div id="{{volume.volume}}" class="panel-collapse collapse">
+          <div class="panel-body">
+              <div class="articles" ng-repeat="article in articles">
+                  <strong>{{article.title}}</strong><br />
+                  <span class="text-muted">by </span><span class="text-info">{{article.author}}</span>
+                  <br />
+                  <span class="text-muted">on {{article.date}}</span>
+                  <br />
+                  <a href="{{article.filePath}}" target="_blank" class="btn btn-default">
+                      <img src="images/pdf_icon.png" width="25" alt="pdf" /> download pdf »</a>
+                  <a href="https://www.facebook.com/sharer/sharer.php?u=http://54.76.132.88:3000/{{article.filePath}}" target="_blank">
+                      <img src="images/fb_share.png" width="150" alt="share" />
+                  </a>
+                  <hr ng-hide="$last" />
+              </div>
+          </div>
+        </div>
+  </div>
+</div>

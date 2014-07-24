@@ -1,0 +1,40 @@
+<div class="file-uploader">
+    <div class="table-responsive">
+        <table class="table">
+            <tr>
+                <td>Approved PDF File:</td>
+                <td><input id="pdfFile" type="file" name="manuscript" onchange="angular.element(this).scope().setFiles(this)"/></td>
+            </tr>
+            <tr>
+                <td>Title:</td>
+                <td><input id="title" type="text" name="title" placeholder="Title of article" ng-model="title"/></td>
+            </tr>
+            <tr>
+                <td>Author's Name:</td>
+                <td><input id="authorName" type="text" name="name" placeholder="Full Name" ng-model="name"/></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button class="btn btn-primary" ng-disabled="invalid" ng-click="uploadFiles()">UPLOAD</button><img class="spinner" src="images/spinner.gif" alt="File Uploading"/></td>
+            </tr>
+        </table>
+    </div>
+</div>
+<!--
+<br />
+
+<div class="table-responsive">
+    <table class="table">
+        <tr>
+            <td><a href="#"><img src="images/pdf_icon.png" alt="pdf file"/><span>title name</span></a></td>
+            <td><span class="text-info">Author name</span><span class="text-muted"> Uploaded on Dec 11 2014</span></td>
+            <td><a href="#"><img src="images/remove.png" alt="delete"/></a></td>
+        </tr>
+        <tr>
+            <td><a href="#"><img src="images/pdf_icon.png" alt="pdf file"/><span>title name</span></a></td>
+            <td><span class="text-info">Author name</span><span class="text-muted"> Uploaded on Dec 11 2014</span></td>
+            <td><a href="#"><img src="images/remove.png" alt="delete"/></a></td>
+        </tr>
+    </table>
+</div>
+-->

@@ -1,0 +1,30 @@
+{
+    "title": "Call for Papers",
+    "body": "The International Journal of Biochemistry and Environmental Sciences (IJBES), is currently calling for papers in all areas of Biochemistry and Environmental Sciences and related disciplines. IJBES publishes high-quality solicited and unsolicited articles, in English, in all areas of the subject. The Journal welcomes the submission of manuscripts that meet the general criteria of significance and scientific excellence. All articles published in IJBES will be peer-reviewed.",
+    "list": {
+        "head": "We invite you to submit manuscripts electronically to the Editorial Office with the essential title page following information",
+        "listItems": [
+            {
+                "itemHead": "Title.",
+                "itemContent": "Concise and informative. Titles are often used in information-retrieval systems. Avoid abbreviations and formulae where possible."
+            },
+            {
+                "itemHead": "Author names and affiliations.",
+                "itemContent": "Where the family name may be ambiguous (e.g., a double name), please indicate this clearly. Present the authors' affiliation addresses (where the actual work was done) below the names. Indicate all affiliations with a lower-case superscript letter immediately after the author's name and in front of the appropriate address. Provide the full postal address of each affiliation, including the country name and, if available, the e-mail address of each author."
+            },
+            {
+                "itemHead": "Corresponding author.",
+                "itemContent": "Clearly indicate who will handle correspondence at all stages of refereeing and publication, also post-publication. Ensure that phone numbers (with country and area code) are provided in addition to the e-mail address and the complete postal address. Contact details must be kept up to date by the corresponding author."
+            },
+            {
+                "itemHead": "Present/permanent address.",
+                "itemContent": "If an author has moved since the work described in the article was done, or was visiting at the time, a 'Present address' (or 'Permanent address') may be indicated as a footnote to that author's name. The address at which the author actually did the work must be retained as the main, affiliation address. Superscript Arabic numerals are used for such footnotes."
+            },
+            {
+                "itemHead": "A cover letter",
+                "itemContent": "carrying a declaration that the prospective manuscript is original and has not been published before nor is it under consideration for publication by another publisher."
+            }
+        ]
+    },
+    "end": "Our objective is to inform authors of the decision on their manuscript(s) within two weeks of submission. Following acceptance, a paper will normally be published in the next issue."
+}

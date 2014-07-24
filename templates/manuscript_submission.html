@@ -1,0 +1,39 @@
+<h1>{{ms.title}}</h1>
+<p>{{ms.body}}</p>
+<ul>
+    <li ng-repeat="item in ms.list">{{item}}</li>
+</ul>
+
+<br />
+
+<strong>Allowed file types (doc, pdf, images)</strong>
+<div class="file-uploader">
+    <div class="table-responsive">
+        <table class="table">
+            <tr>
+                <td>Manuscript File:</td>
+                <td><input id="msFile" data-index="0" type="file" name="manuscript" onchange="angular.element(this).scope().setFiles(this)"/></td>
+            </tr>
+            <tr>
+                <td>Cover Letter:</td>
+                <td><input id="clFile" data-index="1" type="file" name="cover_letter" onchange="angular.element(this).scope().setFiles(this)"/></td>
+            </tr>
+            <tr>
+                <td>Supplementary Files:<span class="text-muted">(optional)</span></td>
+                <td><input id="supFile" data-index="2" type="file" name="supplementary" onchange="angular.element(this).scope().setFiles(this)"/></td>
+            </tr>
+            <tr>
+                <td>Email:</td>
+                <td><input id="email" class="form-control" type="text" name="email" placeholder="Your email address here." ng-model="email" ng-blur="validateEmail()"/><span class="text-danger" style="display: block">{{emailInvalid}}</span></td>
+            </tr>
+            <tr>
+                <td>Name:</td>
+                <td><input id="name" class="form-control" type="text" name="name" placeholder="Full Name" ng-model="name"/></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button class="btn btn-primary" ng-disabled="invalid" ng-click="uploadFiles()">SUBMIT</button><img class="spinner" src="images/spinner.gif" alt="File Uploading"/></td>
+            </tr>
+        </table>
+    </div>
+</div>

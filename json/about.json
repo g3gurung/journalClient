@@ -1,0 +1,40 @@
+{
+    "title": "About this Journal",
+    "body": {
+        "intro": {
+            "content_1": "The International Journal of Biochemistry and Environmental Sciences (IJBES) is a peer-reviewed, open access journal that provides rapid publication of articles in all areas of biochemistry, environmental sciences and related disciplines. The objective of this journal is to provide a veritable platform for scientists and researchers all over the world to promote, share, and discuss a variety of innovative ideas and developments in all aspects of Biochemistry and Environmental Sciences",
+            "content_2": "The Journal welcomes the submission of manuscripts that meet the general criteria of significance and scientific excellence. Papers will be published shortly after acceptance. All articles published in IJBES are peer-reviewed."
+        },
+        "main": {
+            "title": "Types of contribution",
+            "contents": [
+                {
+                    "head": "Regular articles",
+                    "text": "These should describe new and carefully confirmed findings, and experimental methods should be given in sufficient detail for others to verify the work."
+                },
+                {
+                    "head": "Short Communications",
+                    "text": "A short Communication is suitable for recording the results of complete small investigations or giving details of new models or hypotheses, innovative methods, techniques or apparatus. The style of main sections need not conform to that of full-length papers. Short communications are 2 to 4 printed pages (about 6 to 12 manuscript pages) in length."
+                },
+                {
+                    "head": "Reviews",
+                    "text": "Submissions of reviews and perspectives covering topics of current interest are welcome and encouraged. Reviews should be concise and no longer than 4-6 printed pages (about 12 to 18 manuscript pages). Reviews manuscripts are also peer-reviewed."
+                }
+            ]
+        },
+        "end": {
+            "title": "General guidelines",
+            "list": {
+                "head": "Manuscripts are accepted for review with the understanding that",
+                "listItems": [
+                    "Submitted manuscripts must be the original work of the author(s)",
+                    "Only unpublished manuscripts should be submitted",
+                    "It is unethical to submit a manuscript to more than one journal at the same time",
+                    "Any conflict of interest must be clearly stated",
+                    "Authors must acknowledge the sources of data used in the development of the manuscript",
+                    "All errors discovered in the manuscript after submission must be swiftly communicated to the Editor."
+                ]
+            }
+        }
+    }
+}

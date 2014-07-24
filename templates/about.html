@@ -1,0 +1,18 @@
+<h1>{{about.title}}</h1>
+<p>{{about.body.intro.content_1}}</p>
+<p>{{about.body.intro.content_2}}</p>
+
+<br />
+
+<h2>{{about.body.main.title}}</h2>
+<p ng-repeat="content in about.body.main.contents">
+    <strong>{{content.head}}: </strong>{{content.text}}
+</p>
+
+<br />
+
+<h2>{{about.body.end.title}}</h2>
+<p>{{about.body.end.list.head}}</p>
+<ul>
+    <li ng-repeat="item in about.body.end.list.listItems">{{item}}</li>
+</ul>

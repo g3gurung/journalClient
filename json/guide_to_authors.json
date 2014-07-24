@@ -1,0 +1,150 @@
+{
+    "title": "Guide to Authors",
+    "intro": {
+        "title": "The International Journal of Biochemistry and Environmental Sciences (IJBES)",
+        "sub_body": "currently provides rapid publication of articles in all areas of the subject. The Journal welcomes the submission of manuscripts that meet the general criteria of significance and scientific excellence. Papers will be published approximately one month after acceptance.",
+        "body": {
+            "p": [
+                "Papers must be submitted with the understanding that they have not been published elsewhere (except in the form of an abstract or as part of a published lecture, or thesis) and are not currently under consideration by another journal.",
+                "The submitting (Corresponding) author is responsible for ensuring that the article's publication has been approved by all the other co-authors. It is also the authors' responsibility to ensure that the articles emanating from a particular institution are submitted with the approval of the necessary institution. Only an acknowledgment from the editorial office officially establishes the date of receipt.",
+                "Further correspondence and proofs will be sent to the corresponding author(s) before publication unless otherwise indicated. It is a condition for submission of a paper that the authors permit editing of the paper for readability."
+            ]
+        }
+    },
+    "body": {
+        "p_1": {
+            "title": "Submission.",
+            "body_1": "Submission to this journal proceeds totally online, provided that the text, tables, and figures are included in a single Microsoft Word file (preferably in Arial font).",
+            "body_2": "A manuscript number will be mailed to the corresponding author same day or within 72 hours."
+        },
+        "p_2": {
+            "title": "The cover letter",
+            "body": "should include the corresponding author's full address and telephone/fax numbers and should be attached to the manuscript. The author(s) may also suggest three to five reviewers for the manuscript."
+        },
+        "section_1": {
+            "title": " Article Types ",
+            "heading": "Three types of manuscripts may be submitted:",
+            "p_1": {
+                "title": "Regular Articles",
+                "body": "These articles should clearly describe new and carefully confirmed results and experimental procedure which should be given in required details for others to verify the work. The length of a full paper should be the minimum required to describe and interpret the work clearly. For proper referring and fast publication all manuscript should be grammatically correct. Additional fee may be charged by the editor for correction if the manuscript has extensive grammatical mistakes which would be intimated to the corresponding author before final acceptance."
+            },
+            "p_2": {
+                "title": "Short Communications",
+                "body": "A Short Communication is suitable for recording the results of complete small investigations or giving details of new models or hypotheses, innovative methods, techniques or apparatus. The style of main sections need not conform to that of full-length papers. Short communications are 2 to 4 printed pages (about 6 to 12 manuscript pages) in length."
+            },
+            "p_3": {
+                "title": "Reviews",
+                "body": "Submissions of reviews and perspectives covering topics of current interest are welcome and encouraged. Reviews should be concise and no longer than 4-6 printed pages (about 12 to 18 manuscript pages). Reviews manuscripts are also peer-reviewed. Abstract and key words are required. Tables, figures, illustrations and references are to be arranged according to research papers."
+            }
+        },
+        "section_2": {
+            "title": "Review Process",
+            "body": "All manuscripts are reviewed by an editor and members of the editorial board or qualified outside reviewers. Decisions will be made as rapidly as possible, and the journal strives to return reviewers’ comments to authors within 4 weeks. The editorial board will re-review manuscripts that are accepted pending revision."
+        },
+        "section_3": {
+            "title": "Regular Articles",
+            "p_1": {
+                "body_1": "All portions of the manuscript must be typed ",
+                "bold_body": "double-spaced ",
+                "body_2": "and all pages numbered starting from the title page."
+            },
+            "p_2": {
+                "bold_body": "The title",
+                "body": "should be a brief phrase describing the contents of the paper. The Title Page should include the authors' full names and affiliations, the name of the corresponding author along with phone, fax and e-mail information. Present addresses of authors should appear as a footnote."
+            },
+            "p_3": {
+                "bold_body": "The Abstract",
+                "body": "should be informative and completely self-explanatory, briefly present the topic, state the scope of the experiments, indicate significant data, and point out major findings and conclusions. The abstract should be 100 to 200 words in length. Complete sentences, active verbs, and the third person should be used, and the abstract should be written in the past tense. Standard nomenclature should be used and abbreviations should be avoided. No literature should be cited."
+            }
+        },
+        "section_4": {
+            "heading": {
+                "text_1": "Following the abstract, about 4 to 10",
+                "bold_text": "key words",
+                "text_2": "that will provide indexing references should be listed."
+            },
+            "p_1": {
+                "body_1": "A list of non-standard",
+                "bold_body": "Abbreviations ",
+                "body_2": "should be added. In general, non-standard abbreviations should be used only when the full term is very long and used often. Each abbreviation should be spelt out and introduced in parentheses the first time it is used in the text. Only recommended SI units should be used. Authors should use the solidus presentation (mg/ml). Standard abbreviations (such as ATP and DNA) need not be defined."
+            },
+            "p_2": {
+                "title": "The Introduction",
+                "body": "should provide a clear statement of the problem, the relevant literature on the subject, and the proposed approach or solution. It should be understandable to colleagues from a broad range of scientific disciplines."
+            },
+            "p_3": {
+                "title": "Materials and Methods",
+                "body": "should be complete enough to allow experiments to be reproduced. However, only truly new procedures should be described in detail; previously published procedures should be cited, and important modifications of published procedures should be mentioned briefly. Capitalize trade names and include the manufacturer's name and address. Subheadings should be used. Methods in general use need not be described in detail."
+            },
+            "p_4": {
+                "title": "Results",
+                "body": "should be presented with clarity and precision. The results should be written in the past tense when describing findings in the author(s)'s experiments. Previously published findings should be written in the present tense. Results should be explained, but largely without referring to the literature. Discussion, speculation and detailed interpretation of data should not be included in the results but should be put into the discussion section."
+            },
+            "p_5": {
+                "title": "The Discussion",
+                "body": "should interpret the findings in view of the results obtained in this and in past studies on this topic. State the conclusions in a few sentences at the end of the paper. The Results and Discussion sections can include subheadings, and when appropriate, both sections can be combined."
+            }
+        },
+        "section_5": {
+            "heading": {
+                "title": "The Acknowledgments",
+                "body": "of people, grants, funds, etc should be brief."
+            },
+            "p": [
+                {
+                    "title": "Tables",
+                    "body": "should be kept to a minimum and be designed to be as simple as possible. Tables are to be typed double-spaced throughout, including headings and footnotes. Each table should be on a separate page, numbered consecutively in Arabic numerals and supplied with a heading and a legend. Tables should be self-explanatory without reference to the text. The details of the methods used in the experiments should preferably be described in the legend instead of in the text. The same data should not be presented in both table and graph forms or repeated in the text."
+                },
+                {
+                    "title": "Figure legends",
+                    "body": "should be typed in numerical order on a separate sheet. Graphics should be prepared using applications capable of generating high resolution GIF, TIFF, JPEG or PowerPoint before pasting in the Microsoft Word manuscript file. Tables should be prepared in Microsoft Word. Use Arabic numerals to designate figures and upper case letters for their parts (Figure 1). Begin each legend with a title and include sufficient description so that the figure is understandable without reading the text of the manuscript. Information given in legends should not be repeated in the text."
+                }
+            ]
+        },
+        "section_6": {
+            "title": "References",
+            "p_1": {
+                "title": "Citation in text",
+                "body": "Please ensure that every reference cited in the text is also present in the reference list (and vice versa). Any references cited in the abstract must be given in full. Unpublished results and personal communications are not recommended in the reference list, but may be mentioned in the text. If these references are included in the reference list they should follow the standard reference style of the journal and should include a substitution of the publication date with either 'Unpublished results' or 'Personal communication'. Citation of a reference as 'in press' implies that the item has been accepted for publication."
+            }, 
+            "p_2": {
+                "title": "Reference style",
+                "body": {
+                    "title": "Text: All citations in the text should refer to:",
+                    "list": [
+                        "Single author: the author's name (without initials, unless there is ambiguity) and the year of publication;",
+                        "Two authors: both authors' names and the year of publication;",
+                        "Three or more authors: first author's name followed by 'et al.' and the year of publication."
+                    ]
+                },
+                "end": [
+                    "Citations may be made directly (or parenthetically). Groups of references should be listed first alphabetically, then chronologically.",
+                    "Examples: 'as demonstrated (Steve, 2000a, 2000b, 1999; Steve and Johns, 1999). Lopes et al. (2010) have recently shown ....' ",
+                    "List: References should be arranged first alphabetically and then further sorted chronologically if necessary. More than one reference from the same author(s) in the same year must be identified by the letters 'a', 'b', 'c', etc., placed after the year of publication.",
+                    "Examples:",
+                    "Reference to a journal publication:",
+                    "Waters, M., Sahal, S.A.G., Lopes, N.S., 2013. TITLE. J. Sci. Environ. 163, 51–59.",
+                    "Reference to a book:",
+                    "Smith, G., Wilson, E.B., 2000. TITLE, fourth ed. Publisher, Place.",
+                    "Reference to a chapter in an edited book:",
+                    "Amora, K., Sara, M., Noda, A., 2009. CHAPTER TITLE, in: Dalia, A.A. (Eds.), BOOK TITLE.",
+                    "Publisher, Place, pp. 209–222."
+                ] 
+            }
+        },
+        "section_end": {
+            "title": "Short Communications",
+            "p_1": {
+                "body": "Short Communications are limited to a maximum of two figures and one table. They should present a complete study that is more limited in scope than is found in full-length papers. The items of manuscript preparation listed above apply to Short Communications with the following differences: (1) Abstracts are limited to 100 words; (2) instead of a separate Materials and Methods section, experimental procedures may be incorporated into Figure Legends and Table footnotes; (3) Results and Discussion should be combined into a single section."
+            },
+            "p_2": {
+                "title": "Proofs and Reprints:",
+                "body": "Electronic proofs will be sent (e-mail attachment) to the corresponding author as a PDF file.  Page proofs are considered to be the final version of the manuscript. With the exception of typographical or minor clerical errors, no changes will be made in the manuscript at the proof stage.  Authors will have free electronic access to the full text (in PDF) of the article. Authors can freely download the PDF file from which they can print unlimited copies of their articles."
+            },
+            "p_3": {
+                "title": "Copyright:",
+                "body": "Submission of a manuscript implies; that the work described has not been published before (except in the form of an abstract or as part of a published lecture, or thesis) that it is not under consideration for publication elsewhere; that if and when the manuscript is accepted for publication, the authors agree to automatic transfer of the copyright to the publisher."
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+body{
+    background-color: #e9eaed;
+}
+
+.logo {
+    background-image: url(../images/logo.png);
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    height: 200px;
+}
+
+.sidebar-journal-title {
+    font-size: 1.2em;
+    z-index: 2;
+    color: #fff;
+    background-color: #428bca;
+    border-color: #428bca;
+    background-image: url(../images/gradient.png);
+    background-repeat: round;
+}
+
+article {
+    margin: 1em;
+    padding: 1em;
+}
+
+hr {
+    border-top: 1px solid lightgray;
+}
+
+#email, #name {
+    width: 70%;
+}
+
+.spinner {
+    display: none;
+    width: 15px;
+    margin-left: 10px;
+    width: 20px;
+}
+
+.log-out{
+    text-decoration: underline;
+    margin-right: 2em;
+    cursor: pointer;
+}
+
+.articles strong{
+    font-size: 1.25em;
+}
+
+.feedback-form{
+    width: 90%;
+    margin: auto;
+}
+
+footer p, footer a{
+   display: inline-block;
+}
+
+footer a:hover{
+  text-decoration: none;
+}
+
+.ahead-of-print{
+  padding: 5px;
+  font-size: 2em;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .logo {
+        height: 164px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    
+} 
+
+@media only screen and (max-width: 479px) {
+    .logo {
+        height: 104px;
+    }
+}
